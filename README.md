@@ -16,9 +16,13 @@
 ## Browser
 
 - http://localhost:3000/
+
 - http://localhost:3000/keystone -> admin UI
+
   u: haroldx3m@gmail.com
+  
   p: aaaaaa
--http://localhost:3000/add-event -> basic routing with pug view engine
+  
+- http://localhost:3000/add-event -> basic routing with pug view engine
 
 

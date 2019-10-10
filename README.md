@@ -19,7 +19,7 @@
 
 - http://localhost:3000/keystone -> admin UI
 
-  u: haroldx3m@gmail.com
+  u: haroldx3m.dev@gmail.com
   
   p: aaaaaa
   
